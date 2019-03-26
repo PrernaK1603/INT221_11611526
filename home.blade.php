@@ -147,3 +147,157 @@ height:100%;
   
 	</div>
 </div>
+
+<div class="row">
+	<div class="col-md-1" style="height:350px; background-color:white;"></div>
+	<div class="col-md-6" style="height:400px; background-color:white">
+	<h4 style="padding:10px;"> <b> ABOUT SMILE FOUNDATION</b></h4>
+	 <p>Smile Foundation is an NGO in India directly benefitting over 750,000 children and their 
+	 families every year, through more than 350 live welfare projects on education, healthcare,livelihood.and women empowerment, in over 1000 remote villages and slums across 25 states of India.</p>
+	 <p>Education is both the means as well as the end to a better life: the means because it empowers an individual to earn his/her livelihood and the end because it increases one's awareness on a range of issues – from healthcare to appropriate social behaviour to understanding one's rights – and in the process help him/her evolve as a better citizen.</p>
+	 <p>Doubtless, education is the most powerful catalyst for social transformation. But child education cannot be done in isolation. A child will go to school only if the family, particularly the mother, is assured of healthcare and empowered. Moreover, when an elder sibling is relevantly skilled to be employable and begins earning, the journey of empowerment continues beyond the present generation.</p></div>
+	 <div class="col-md-4" style="height:400px; background-color:white;">
+	 	<center><img src='pic6.jpg' style="height:250px; padding:15px;"></center>
+	 	<p>"Little Mithi's mother Jayanti was worried as her daughter had caught cold. Just to cheer her up, I gave her my stethoscope to listen to Mithi's heartbeat, and she couldn't hold her tears back.</p>
+	 </div>
+</div>
+
+<div class="row">
+    <div class="col-md-1" style="height:130px; background-color:white;"></div>
+    <div class="col-md-10" style="height:130px; background-color:white;">
+    <h4><b>OUR WORK</b></h4>
+    <p>Following a lifecycle approach, Smile Foundation works intensively through focused welfare projects in four major areas – child education, healthcare for families, skills training and livelihood for youth, and community engagement through women empowerment.</p>
+    <p>So far, we have been able to directly impact the lives of over 1 million children and families.</p></div>
+    <div class="col-md-1" style="height:130px; background-color:white;"></div>
+</div>
+
+<div class="row">
+	<div class="col-md-1" style="height:50px; background-color:white;"></div>
+	<div class="col-md-10" style="height:50px; background-color:white;">
+	<h4><b>EVENTS AND UPDATES</b></h4></div>
+	<div class="col-md-1" style="height:50px; background-color:white;"></div>
+</div>
+
+<div class="row">
+	<div class="col-md-1" style="height:350px; background-color:#f0f0f0;"></div>
+	<div class="col-md-10" style="height:350px; background-color:#f0f0f0;">
+	<img src="pic7.jpg" style="width:335px; height:310px; margin:20px;">
+    <img src="pic8.jpg" style="width:335px; height:310px; margin:20px;">
+    <img src="pic9.jpg" style="width:335px; height:310px; margin:20px;"></div>
+	<div class="col-md-1" style="height:350px; background-color:#f0f0f0;"></div>
+</div>
+
+<div class="row">
+	<div class="col-md-1" style="background-color:#f0f0f0; height:50px;"></div>
+	<div class="col-md-10" style="background-color:#f0f0f0; height:50px;">
+	<h4><b>OUR INVOLVED</b></h4></div>
+	<div class="col-md-1" style="background-color:#f0f0f0;height:50px;"></div>
+</div>
+
+<div class="row">
+	<div class="col-md-12" style="background-color:green; height:3px;"></div>
+</div>
+
+<div class="row">
+	<div class="col-md-3" style="background-color:#ffe600;height:80px;"></div>
+	<div class="col-md-6" style="height:80px; background-color:#ffe600;">
+	<i class="material-icons" style="font-size:36px; margin:25px;">email</i>Sign up
+    &nbsp &nbsp &nbsp &nbsp
+    &nbsp &nbsp &nbsp &nbsp
+<i class="material-icons" style="font-size:36px">call</i>Contact Us
+    &nbsp &nbsp &nbsp &nbsp
+    &nbsp &nbsp &nbsp &nbsp
+<i class="material-icons" style="font-size:36px">chat</i>chat
+    &nbsp &nbsp &nbsp &nbsp
+    &nbsp &nbsp &nbsp &nbsp
+<i class="material-icons" style="font-size:36px">message</i>Message</div>
+	<div class="col-md-3" style="background-color:#ffe600;height:80px;"></div>
+</div>
+
+
+<div class="row">
+	<div class="col-md-12" style="background-color:black; height:3px;"></div>
+</div>
+
+<div class="row">
+	<div class="col-md-1" style="background-color:#2e2e2e; height:400px;"></div>
+	<div class="col-md-4" style="background-color:#2e2e2e; height:400px;">
+	<h5 style="color:white;"><b>ABOUT US</b></h5>
+<p style="color:white;">Smile Foundation is an NGO in
+India directly benefitting
+over 750,000 children
+and families through more than
+350 welfare projects in education,
+health, livelihood and woman 
+empowerment spread across 
+over 1000 remote villages and slums in 25 
+states in India.</p><br><br>
+<p style="color:white;">Our Impact
+Reach & Presence
+Civic Driven Change
+Smilestones
+</p></div>
+    <div class="col-md-3" style="background-color:#2e2e2e; height:400px;">
+    	<h5 style="color:white;"><b>OUR WORK</b></h5>
+<p style="color:white;">Education<br>
+Health<br>
+Livelihood<br>
+Women Empowerment<br>
+Disaster Response<br>
+Empowering Grassroots<br>
+Child for Child<br><br>
+
+<p style="color:white;"><b>COMPAIGN</b><br>
+Every Child in School <br>
+Plate Half-Full<br>
+She Can Fly<br>
+Health Cannot Wait</p>
+</div>
+    <div class="col-md-2" style="background-color:#2e2e2e; height:400px;">
+    		<h5 style="color:white"><b>GET INVOLVED</b></h5>
+    		<p style="color:white;">Individual Support<br>
+            Corporate Partnerships<br>
+            Volunteer<br>
+           Careers<br>
+        </p>
+        <h5 style="color:white;"><b>FAQS</b></h5>
+        <h5 style="color:white;"><b>MEDIA CENTRE</b></h5><br>
+        <h5 style="color:white;"><b>RESOURCE CENTRE</b></h5>
+        <p style="color:white;">Annual Report
+Newsletter<br>
+Photo Journey<br>
+Stories of Change</p></div>
+	<div class="col-md-2" style="background-color:#2e2e2e; height:400px;">
+		<!--<img src="pic12.jpg">--></div>
+</div>
+
+
+<div class="row">
+	<div class="col-md-1" style="background-color:#424242; height:50px;"></div>
+	<div class="col-md-10" style="background-color:#424242; height:50px;">
+		<p style="color:white; line-height:50px;">
+			&nbsp &nbsp &nbsp &nbsp &nbsp
+			&nbsp &nbsp &nbsp &nbsp &nbsp
+			&nbsp &nbsp &nbsp &nbsp &nbsp
+            &nbsp &nbsp &nbsp &nbsp &nbsp
+            &nbsp &nbsp &nbsp 
+            &nbsp &nbsp &nbsp &nbsp &nbsp
+            &nbsp &nbsp &nbsp &nbsp &nbsp
+            &nbsp &nbsp &nbsp 
+		© 2019 Smile Foundation. All Rights Reserved. | Staff Login  | Partners Login | Privacy Policy</p>
+	</div>
+	<div class="col-md-1" style="background-color:#424242; height:50px;"></div>
+</div>
+
+
+
+	</body>
+</html>
+
+
+
+
+
+
+
+
