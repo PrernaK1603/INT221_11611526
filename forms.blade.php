@@ -88,3 +88,134 @@ height:100%;
   </div>
 </nav></div>
     </div>
+
+<div class="row">
+  <div class="col-md-1" style="background-color:#f0f0f0; height:700px;"></div>
+  <div class="col-md-10" style="background-color:#f0f0f0; height:700px;"><br><br>
+    <form action="/shows/formdata" method="post">
+      {{csrf_field()}}
+<label for="id">Id:</label>
+<input type="text" placeholder="Enter the Id" name="id"style="width:100%; height:40px; border-radius:2px;"><br><br>
+
+<label for="name">Name:</label>
+<input type="text" placeholder="Enter the Name" name="name"style="width:100%; height:40px; border-radius:2px;"><br><br>
+<label for="email">Email:</label>
+<input type="email" placeholder="Enter the Email" name="email" style="width:100%; height:40px; border-radius:2px;"><br><br>
+<label for="password">Password:</label>
+<input type="password" placeholder="Enter the password" name="password" style="width:100%; height:40px; border-radius:2px;" ><br><br>
+<label for="phone">Phone:</label>
+<input type="inputPhone" placeholder="Enter the phone number" name="phone" style="width:100%; height:40px; border-radius:2px;"><br><br>
+<label for="comment">Comment:</label>
+<textarea placeholder="Enter the Comment" name="comment" style="width:100%; height:150px; border-radius:2px;">
+</textarea><br><br>
+<input type="submit" name="s1" style="background-color:#424242; color:white; height:30px; width:80px;">
+</form>
+</div>
+<div class="col-md-1" style="background-color:#f0f0f0; height:700px;"></div>
+</div>
+
+<div class="row">
+  <div class="col-md-1" style="background-color:#f0f0f0; height:50px;"></div>
+  <div class="col-md-10" style="background-color:#f0f0f0; height:50px;">
+  <h4><b>OUR INVOLVED</b></h4></div>
+  <div class="col-md-1" style="background-color:#f0f0f0;height:50px;"></div>
+</div>
+
+<div class="row">
+  <div class="col-md-12" style="background-color:green; height:3px;"></div>
+</div>
+
+<div class="row">
+  <div class="col-md-3" style="background-color:#ffe600;height:80px;"></div>
+  <div class="col-md-6" style="height:80px; background-color:#ffe600;">
+  <i class="material-icons" style="font-size:36px; margin:25px;">email</i>Sign up
+    &nbsp &nbsp &nbsp &nbsp
+    &nbsp &nbsp &nbsp &nbsp
+<i class="material-icons" style="font-size:36px">call</i>Contact Us
+    &nbsp &nbsp &nbsp &nbsp
+    &nbsp &nbsp &nbsp &nbsp
+<i class="material-icons" style="font-size:36px">chat</i>chat
+    &nbsp &nbsp &nbsp &nbsp
+    &nbsp &nbsp &nbsp &nbsp
+<i class="material-icons" style="font-size:36px">message</i>Message</div>
+  <div class="col-md-3" style="background-color:#ffe600;height:80px;"></div>
+</div>
+
+
+<div class="row">
+  <div class="col-md-12" style="background-color:black; height:3px;"></div>
+</div>
+
+<div class="row">
+  <div class="col-md-1" style="background-color:#2e2e2e; height:400px;"></div>
+  <div class="col-md-4" style="background-color:#2e2e2e; height:400px;">
+  <h5 style="color:white;"><b>ABOUT US</b></h5>
+<p style="color:white;">Smile Foundation is an NGO in
+India directly benefitting
+over 750,000 children
+and families through more than
+350 welfare projects in education,
+health, livelihood and woman 
+empowerment spread across 
+over 1000 remote villages and slums in 25 
+states in India.</p><br><br>
+<p style="color:white;">Our Impact
+Reach & Presence
+Civic Driven Change
+Smilestones
+</p></div>
+    <div class="col-md-3" style="background-color:#2e2e2e; height:400px;">
+      <h5 style="color:white;"><b>OUR WORK</b></h5>
+<p style="color:white;">Education<br>
+Health<br>
+Livelihood<br>
+Women Empowerment<br>
+Disaster Response<br>
+Empowering Grassroots<br>
+Child for Child<br><br>
+
+<p style="color:white;"><b>COMPAIGN</b><br>
+Every Child in School <br>
+Plate Half-Full<br>
+She Can Fly<br>
+Health Cannot Wait</p>
+</div>
+    <div class="col-md-2" style="background-color:#2e2e2e; height:400px;">
+        <h5 style="color:white"><b>GET INVOLVED</b></h5>
+        <p style="color:white;">Individual Support<br>
+            Corporate Partnerships<br>
+            Volunteer<br>
+           Careers<br>
+        </p>
+        <h5 style="color:white;"><b>FAQS</b></h5>
+        <h5 style="color:white;"><b>MEDIA CENTRE</b></h5><br>
+        <h5 style="color:white;"><b>RESOURCE CENTRE</b></h5>
+        <p style="color:white;">Annual Report
+Newsletter<br>
+Photo Journey<br>
+Stories of Change</p></div>
+  <div class="col-md-2" style="background-color:#2e2e2e; height:400px;">
+    <!--<img src="pic12.jpg">--></div>
+</div>
+
+
+<div class="row">
+  <div class="col-md-1" style="background-color:#424242; height:50px;"></div>
+  <div class="col-md-10" style="background-color:#424242; height:50px;">
+    <p style="color:white; line-height:50px;">
+      &nbsp &nbsp &nbsp &nbsp &nbsp
+      &nbsp &nbsp &nbsp &nbsp &nbsp
+      &nbsp &nbsp &nbsp &nbsp &nbsp
+            &nbsp &nbsp &nbsp &nbsp &nbsp
+            &nbsp &nbsp &nbsp 
+            &nbsp &nbsp &nbsp &nbsp &nbsp
+            &nbsp &nbsp &nbsp &nbsp &nbsp
+            &nbsp &nbsp &nbsp 
+    © 2019 Smile Foundation. All Rights Reserved. | Staff Login  | Partners Login | Privacy Policy</p>
+  </div>
+  <div class="col-md-1" style="background-color:#424242; height:50px;"></div>
+</div>
+
+
+</body>
+</html>
